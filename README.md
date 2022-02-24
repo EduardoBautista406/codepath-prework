@@ -34,6 +34,8 @@ Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/J6RhqNS.gif)
 
 ![](https://i.imgur.com/DKY9TrJ.gif)
+![](https://i.imgur.com/kKqEEWj.gif)
+
 
 <img src="https://i.imgur.com/DKY9TrJ.gif" width=250>
 
